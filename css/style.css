@@ -148,8 +148,8 @@ footer{
  
     .titolo{
         font-size: 48px;
+        margin: auto    ;
     }
-
     .esperimento, .storie, .unesco{
         flex-direction: column;
         gap: 16px;
@@ -173,6 +173,11 @@ footer{
         font-size: 14px;
         margin: 8px 64px 64px 64px;
         text-align: left;
+}
+
+.contact{
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 
